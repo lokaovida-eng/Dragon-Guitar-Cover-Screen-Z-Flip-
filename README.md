@@ -1,6 +1,6 @@
 # 🎸 Dragon Guitar - Galaxy Z Flip Cover Screen Rhythm Game
 
-[![Download APK](https://img.shields.io/badge/Download_APK-Direct_Installer-00F0FF?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Dragon-Guitar-Cover-Screen-Z-Flip-/releases)
+[![Download APK](https://img.shields.io/badge/Download_APK-Direct_Installer_v1.0-00F0FF?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Dragon-Guitar-Cover-Screen-Z-Flip-/raw/main/guitar%20dragon1.0.apk)
 [![Samsung](https://img.shields.io/badge/Galaxy_Z_Flip-Cover_Screen_Game-00F0FF?style=for-the-badge&logo=samsung)](https://github.com/lokaovida-eng/Dragon-Guitar-Cover-Screen-Z-Flip-)
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://github.com/lokaovida-eng/Dragon-Guitar-Cover-Screen-Z-Flip-)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/lokaovida-eng/Dragon-Guitar-Cover-Screen-Z-Flip-)
@@ -13,7 +13,7 @@
 
 Click the badge below to download the latest release installer directly to your device:
 
-👉 **[Download DragonGuitar.apk (Direct Installer)](https://github.com/lokaovida-eng/Dragon-Guitar-Cover-Screen-Z-Flip-/releases)**
+👉 **[Download Dragon Guitar v1.0.apk (Direct 46.8 MB Installer)](https://github.com/lokaovida-eng/Dragon-Guitar-Cover-Screen-Z-Flip-/raw/main/guitar%20dragon1.0.apk)**
 
 ---
 
